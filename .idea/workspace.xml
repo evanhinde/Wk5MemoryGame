@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae36b5db-1127-4d61-84cc-39f704dc9047" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wk5memorygame/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wk5memorygame/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wk5memorygame/MemoryGameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/wk5memorygame/memory-game-view.fxml" afterDir="false" />
+    <list default="true" id="ae36b5db-1127-4d61-84cc-39f704dc9047" name="Changes" comment="Added in a view and controller">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/wk5memorygame/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wk5memorygame/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wk5memorygame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wk5memorygame/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wk5memorygame/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wk5memorygame/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wk5memorygame/memory-game-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wk5memorygame/memory-game-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +19,15 @@
       <list>
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -50,6 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,11 +66,23 @@
       <workItem from="1675976863467" duration="151000" />
       <workItem from="1675977046090" duration="26000" />
       <workItem from="1675977104259" duration="22000" />
-      <workItem from="1675977162768" duration="320000" />
+      <workItem from="1675977162768" duration="2446000" />
     </task>
+    <task id="LOCAL-00001" summary="Added in a view and controller">
+      <created>1675977526318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675977526318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added in a view and controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added in a view and controller" />
   </component>
 </project>
